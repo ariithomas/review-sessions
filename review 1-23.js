@@ -32,3 +32,8 @@ console.log(formatGreeting(rebecca) === "Hello Rebecca Cohen, have a great day a
   lastName: "Klaus",
   occupation: "Carpenter"
 }
+
+// Iterate through the array of objects.
+// Check if the id of each object matches the targetId.
+// If there's a match, format the string using the other properties (e.g., firstName, lastName, and occupation).
+// Return the formatted string
